@@ -11,11 +11,9 @@
 2. Run the project.
 3. SPM will automatically download all the required 3rd party libraies
 
-## Frameworks
+## Screenshot
 
-- [Alamofire](https://github.com/Alamofire/Alamofire)
-- [PromiseKit](https://github.com/mxcl/PromiseKit)
-
+<img src="./Screenshots/sydney.jpeg" width="320" height="550"/>
 
 ## Introduction
 
@@ -26,4 +24,10 @@ The app consists of a page view controller with four child view controllers, fir
 The app uses two 3rd party library, Alamofire is used to consume openweathermap API, Promisekit is used to get multiple API calls organised, make the code cleaner and easy to debug.
 
 The app has a MVVM architecture, the ServiceManager is responsible for making the API call, get the raw data ready, then the viewModel will take care of the raw data, load them into user friendly CellModels, then use closure to inform view controller to load the sanitized data. Loading indicator will only animate when the data array is empty, next time it won't appear to overlap the content.
+
+## Frameworks
+
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+- [PromiseKit](https://github.com/mxcl/PromiseKit)
+
 
