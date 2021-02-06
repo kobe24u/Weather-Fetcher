@@ -13,7 +13,7 @@
 
 ## Screenshot
 
-<img src="./Screenshots/sydney.jpeg" width="320" height="550"/>
+<img src="./Screenshots/sydney.jpeg" width="320" height="650"/>
 
 ## Introduction
 
