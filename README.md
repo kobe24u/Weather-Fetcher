@@ -9,7 +9,7 @@
 
 1. Download the source code or clone the repository.
 2. Run the project.
-3, SPM will automatically download all the required 3rd party libraies
+3. SPM will automatically download all the required 3rd party libraies
 
 ## Frameworks
 
